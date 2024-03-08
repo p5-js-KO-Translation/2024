@@ -6,7 +6,7 @@
 
 ### 2024년 3월 9일(토)
 * 2024 > contribution-docs > [march-week2-preparation.md](https://github.com/p5-js-KO-Translation/2024/blob/main/contribution-docs/march-week2.md) > 1️⃣ 색인 번역 & 2️⃣ 문단 1개 번역 (모든 기여자 해당)
-* 참고 : [MD 파일 수정 및 commit 방법 안내](https://github.com/orgs/p5-js-KO-Translation/discussions)
+* 참고 : announcements (private) > Discussions > [Markdown(MD) 파일 수정 및 Commit 방법 안내](https://github.com/orgs/p5-js-KO-Translation/discussions)
 
 # 참고 자료 Resources
 
