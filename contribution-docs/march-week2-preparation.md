@@ -26,7 +26,7 @@
 
 ## 2️⃣ 문단 1개 번역 
 
-1) (모든 기여자들 해당) 프로세싱 재단 GitHub > p5.js repo > 기여 가이드라인 (contributor_guidelines) MD 파일 중> [이슈(Issue)란 무엇인가](https://github.com/processing/p5.js/blob/main/contributor_docs/contributor_guidelines.md#what-are-issues) 1문단 번역
+1) 프로세싱 재단 GitHub > p5.js repo > 기여 가이드라인 (contributor_guidelines) MD 파일 중> [이슈(Issue)란 무엇인가](https://github.com/processing/p5.js/blob/main/contributor_docs/contributor_guidelines.md#what-are-issues) 1문단 번역
 
 2) 아래 본인 이름 밑에 각자 번역문(+해당시 비고/논의 필요사항) 기록
 
