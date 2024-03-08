@@ -4,8 +4,9 @@
 ### * 외부 폴더: [Google Folder](https://drive.google.com/drive/folders/1xE5fFNGicSoY9rTTN3XBf7-fhEhu43Gi?usp=drive_link)
 
 
-### 2024년 3월 8일(금)
-* To be updated
+### 2024년 3월 9일(토)
+* 2024 > contribution-docs > [march-week2-preparation.md](https://github.com/p5-js-KO-Translation/2024/blob/main/contribution-docs/march-week2.md) > 1️⃣ 색인 번역 & 2️⃣ 문단 1개 번역 (모든 기여자 해당)
+* 참고 : [MD 파일 수정 및 commit 방법 안내](https://github.com/orgs/p5-js-KO-Translation/discussions)
 
 # 참고 자료 Resources
 
