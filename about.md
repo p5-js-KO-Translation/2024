@@ -6,8 +6,8 @@
 - Sejin Oh
 
 ### Contributors
-- Yewon Jang [@YewonCALLI]([url](https://github.com/YewonCALLI))
-- Yunyoung Jang [@yunyoungjang]([url](https://github.com/yunyoungJang))
-- Minwook Park [@wooknick]([url](https://github.com/wooknick))
-- Sunghun Park [@Orwiss]([url](https://github.com/Orwiss)https://github.com/Orwiss)
-- Hyunwoo Rhee [@ienground]([url](https://github.com/ienground)https://github.com/ienground)
+- Yewon Jang [@YewonCALLI]((https://github.com/YewonCALLI))
+- Yunyoung Jang [@yunyoungjang]((https://github.com/yunyoungJang))
+- Minwook Park [@wooknick]((https://github.com/wooknick))
+- Sunghun Park [@Orwiss]((https://github.com/Orwiss)https://github.com/Orwiss)
+- Hyunwoo Rhee [@ienground]((https://github.com/ienground)https://github.com/ienground)
