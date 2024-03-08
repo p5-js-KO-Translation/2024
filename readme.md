@@ -1,7 +1,11 @@
-# 주간 안내 Weekly Guideline
+# 주간 활동 안내 Weekly Guideline
 
+### * 주요 폴더: [2024/contribution-docs](https://github.com/p5-js-KO-Translation/2024/tree/main/contribution-docs)
+### * 외부 폴더: [Google Folder](https://drive.google.com/drive/folders/1xE5fFNGicSoY9rTTN3XBf7-fhEhu43Gi?usp=drive_link)
+
+
+### 2024년 3월 8일(금)
 * To be updated
-
 
 # 참고 자료 Resources
 
