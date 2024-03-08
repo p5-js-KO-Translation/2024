@@ -38,3 +38,8 @@
 - 박민욱 Minwook Park - [@wooknick](https://github.com/wooknick)
 - 박성훈 Sunghun Park - [@Orwiss](https://github.com/Orwiss)
 - 이현우 Hyunwoo Rhee - [@ienground](https://github.com/ienground)
+
+### Project Lead & Manager
+- 치안치안 예 Qianqian Ye - [@Qianqianye](https://github.com/Qianqianye) (p5.js Lead)
+- 케네스 림 Kenneth Lim - [@limzykenneth](https://github.com/limzykenneth) (p5.js Translation Project Co-Lead)
+- 캐런 아베 Karen Abe (p5.js Translation Project Manager)
