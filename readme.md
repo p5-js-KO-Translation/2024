@@ -1,8 +1,9 @@
-#주간 안내 Weekly Guideline
-To-be-announced(TBA)
+# 주간 안내 Weekly Guideline
+
+* To be updated
 
 
-# Resources
+# 참고 자료 Resources
 
 ### p5.js Korean Translation
 - 2020 한국어 홈페이지 색인: [link](https://docs.google.com/spreadsheets/d/1tgIgyF5YVCoPQlYlZcm0ds1urLQGTQiC/edit#gid=571278049)
@@ -20,3 +21,15 @@ To-be-announced(TBA)
 - [프로세싱 재단 홈페이지](https://processingfoundation.org/)
 - [p5.js 홈페이지](https://p5js.org/ko/)
 
+
+# 2024 참여자 Participants
+### Stewards
+- 염인화 Inhwa Yeom - [@yinhwa](https://github.com/yinhwa)
+- 오세진 Sejin Oh - [@designerSejinOH](https://github.com/designerSejinOH)
+
+### Contributors
+- 장예원 Yewon Jang - [@YewonCALLI](https://github.com/YewonCALLI)
+- 장윤영 Yunyoung Jang - [@yunyoungjang](https://github.com/yunyoungJang)
+- 박민욱 Minwook Park - [@wooknick](https://github.com/wooknick)
+- 박성훈 Sunghun Park - [@Orwiss](https://github.com/Orwiss)
+- 이현우 Hyunwoo Rhee - [@ienground](https://github.com/ienground)
