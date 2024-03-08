@@ -2,12 +2,12 @@
 
 ## 2024
 ### Stewards
-- Inhwa Yeom [@yinhwa](https://github.com/yinhwa)
-- Sejin Oh
+- 염인화 Inhwa Yeom - [@yinhwa](https://github.com/yinhwa)
+- 오세진 Sejin Oh - [@designerSejinOH](https://github.com/designerSejinOH)
 
 ### Contributors
-- Yewon Jang [@YewonCALLI]((https://github.com/YewonCALLI))
-- Yunyoung Jang [@yunyoungjang]((https://github.com/yunyoungJang))
-- Minwook Park [@wooknick]((https://github.com/wooknick))
-- Sunghun Park [@Orwiss]((https://github.com/Orwiss)https://github.com/Orwiss)
-- Hyunwoo Rhee [@ienground]((https://github.com/ienground)https://github.com/ienground)
+- 장예원 Yewon Jang - [@YewonCALLI](https://github.com/YewonCALLI)
+- 장윤영 Yunyoung Jang - [@yunyoungjang](https://github.com/yunyoungJang)
+- 박민욱 Minwook Park - [@wooknick](https://github.com/wooknick)
+- 박성훈 Sunghun Park - [@Orwiss](https://github.com/Orwiss)
+- 이현우 Hyunwoo Rhee - [@ienground](https://github.com/ienground)
