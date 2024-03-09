@@ -12,10 +12,9 @@
 
 ### p5.js Korean Translation
 - 국립국어원 (맞춤법, 어문 규범 등): [link](https://www.korean.go.kr/)
-  
+- 2021 p5.js 웹에디터 친절한 오류 메시지 세계화 가이드북: [link](https://almchung.github.io/p5-fes-i18n-book/)  
 - 2020 한국어 홈페이지 색인: [link](https://docs.google.com/spreadsheets/d/1tgIgyF5YVCoPQlYlZcm0ds1urLQGTQiC/edit#gid=571278049)
 - 2020 한국어 홈페이지 런칭 관련 인터뷰: [link](https://medium.com/processing-foundation/p5-js-ko%EB%A5%BC-%EB%9F%B0%EC%B9%AD%ED%95%A9%EB%8B%88%EB%8B%A4-2f0affd2ff13)
-- 2021 p5.js 웹에디터 친절한 오류 메시지 세계화 가이드북: [link](https://almchung.github.io/p5-fes-i18n-book/)
 
 
 ### Other Contribution Activities
