@@ -2,7 +2,7 @@
 
 * 모든 가이드라인은 p5.js 프로젝트 리드 치안치안 예(Qianqian Ye)님이 제공하였습니다. 원문은 우리 Organization> Discussion > [이 Discussion 포스트](https://github.com/orgs/p5-js-KO-Translation/discussions/3) 상에서 확인 가능합니다.
 
-* 번역에 앞서, ⭐[p5.js 웹에디터 친근한 오류 시스템 번역 가이드라인](https://almchung.github.io/p5-fes-i18n-book/)을 훑어보시면 도움이 되실 것 같습니다. 기존 한국어 번역자들의 고민과 노하우가 수록된 페이지입니다.
+* 번역에 앞서, p5.js 웹에디터 친근한 오류 시스템 번역 가이드라인 중⭐[번역자 간의 약속](https://almchung.github.io/p5-fes-i18n-book/ch4/)⭐을 훑어보시면 도움이 되실 것 같습니다. 기존 한국어 번역자들의 고민과 노하우가 수록된 페이지입니다.
 
 ## 1️⃣ 색인 번역 
 
