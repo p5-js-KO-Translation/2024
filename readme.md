@@ -1,25 +1,25 @@
 # 주간 활동 안내 Weekly Guideline
 
-### * 주요 폴더: [2024/contribution-docs](https://github.com/p5-js-KO-Translation/2024/tree/main/contribution-docs)
-### * 외부 폴더: [Google Folder](https://drive.google.com/drive/folders/1xE5fFNGicSoY9rTTN3XBf7-fhEhu43Gi?usp=drive_link)
+### * 주요 폴더 : [2024/contribution-docs](https://github.com/p5-js-KO-Translation/2024/tree/main/contribution-docs)
+### * 외부 폴더 : [Google Folder](https://drive.google.com/drive/folders/1xE5fFNGicSoY9rTTN3XBf7-fhEhu43Gi?usp=drive_link)
 
 
 ### 2024년 3월 9일(토)
-* 2024 > contribution-docs > [march-week2-preparation.md](https://github.com/p5-js-KO-Translation/2024/blob/main/contribution-docs/march-week2-preparation.md) > 1️⃣ 색인 번역 & 2️⃣ 문단 1개 번역 (모든 기여자 해당)
-* 참고 : announcements (private, Org 멤버만 확인 가능/로그인 필수) > Discussions > [Markdown(MD) 파일 수정 및 Commit 방법 안내](https://github.com/orgs/p5-js-KO-Translation/discussions) 
+* 연습 과제 : 2024 > contribution-docs > [march-week2-preparation.md](https://github.com/p5-js-KO-Translation/2024/blob/main/contribution-docs/march-week2-preparation.md) > 1) 색인 번역 & 2) 문단 1개 번역 (모든 기여자 해당)
+* 참고 : 2024 > Discussions > [Markdown(MD) 파일 수정 및 Commit 방법 안내](https://github.com/p5-js-KO-Translation/2024/discussions/)
 
 # 참고 자료 Resources
 
 ### p5.js Korean Translation
-- 국립국어원 (맞춤법, 어문 규범 등): [link](https://www.korean.go.kr/)
-- 2021 p5.js 웹에디터 친절한 오류 메시지 세계화 가이드북: [link](https://almchung.github.io/p5-fes-i18n-book/)  
-- 2020 한국어 홈페이지 색인: [link](https://docs.google.com/spreadsheets/d/1tgIgyF5YVCoPQlYlZcm0ds1urLQGTQiC/edit#gid=571278049)
-- 2020 한국어 홈페이지 런칭 관련 인터뷰: [link](https://medium.com/processing-foundation/p5-js-ko%EB%A5%BC-%EB%9F%B0%EC%B9%AD%ED%95%A9%EB%8B%88%EB%8B%A4-2f0affd2ff13)
+- 국립국어원 (맞춤법, 어문 규범 등) : [link](https://www.korean.go.kr/)
+- 2021 p5.js 웹에디터 친절한 오류 메시지 세계화 가이드북 : [link](https://almchung.github.io/p5-fes-i18n-book/)  
+- 2020 한국어 홈페이지 색인 : [link](https://docs.google.com/spreadsheets/d/1tgIgyF5YVCoPQlYlZcm0ds1urLQGTQiC/edit#gid=571278049)
+- 2020 한국어 홈페이지 런칭 관련 인터뷰 : [link](https://medium.com/processing-foundation/p5-js-ko%EB%A5%BC-%EB%9F%B0%EC%B9%AD%ED%95%A9%EB%8B%88%EB%8B%A4-2f0affd2ff13)
 
 
 ### Other Contribution Activities
-- Google Summer of Code: [link](https://processingfoundation.org/advocacy/google-summer-of-code)
-- Processing Foundation Fellowship: [link](https://processingfoundation.org/fellowships)
+- Google Summer of Code : [link](https://processingfoundation.org/advocacy/google-summer-of-code)
+- Processing Foundation Fellowship : [link](https://processingfoundation.org/fellowships)
 
 
 ### Processing Foundation & p5.js
