@@ -1,6 +1,6 @@
 # 연습 과제 Preparation (마감: ~3/13 수)
 
-* 모든 가이드라인은 p5.js 프로젝트 리드 치안치안 예(Qianqian Ye)님이 제공하였습니다. 원문은 우리 Organization> Discussion > [이 Discussion 포스트](https://github.com/orgs/p5-js-KO-Translation/discussions/3) 상에서 확인 가능합니다.
+* 모든 가이드라인은 p5.js 프로젝트 리드 치안치안 예(Qianqian Ye)님이 제공하였습니다. 원문은 announcement(private) > Discussion > [이 Discussion 포스트](https://github.com/orgs/p5-js-KO-Translation/discussions/3) 상에서 확인 가능합니다.
 
 * 번역에 앞서, p5.js 웹에디터 친근한 오류 시스템 번역 가이드라인 중⭐[번역자 간의 약속](https://almchung.github.io/p5-fes-i18n-book/ch4/)⭐을 훑어보시면 도움이 되실 것 같습니다. 기존 한국어 번역자들의 고민과 노하우가 수록된 페이지입니다.
 
@@ -17,7 +17,7 @@
 |------|---------|---|
 |박민욱 |         |   |
 |박성훈 |         |   |
-|염인화 |☑️(24.03.09)| [인화] 제 섹션에 "omponent" 뭔지 아시는 분 도움 부탁드립니다 😥 중국어번역에 따르면 "부건(部件)"이고 부품/부속물 이런뜻같은데...➡️ 이건 재단측 중문 색인 제작자인 Kenneth님한테 문의예정 ➡️ component 오타 맞다고 케네스님이 방금 확인 주셨네요(24.03.10) / 현우님 의견에 따라, Iteration = 이터레이션(반복) 병기 (24.03.10)|
+|염인화 |☑️(24.03.09)| [인화] omponent -> component 오타 맞다고 케네스님이 방금 확인 주셨네요(24.03.10) / 현우님 의견에 따라, Iteration = 이터레이션(반복) 병기 (24.03.10)|
 |오세진 |         |   |
 |이현우 |☑️(24.03.10)|   |
 |장예원 |         |   |
