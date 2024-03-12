@@ -7,7 +7,7 @@
 * 2024 > Discussions > [[p5.js KO] 음차 번역 기준 및 표기 제안](https://github.com/p5-js-KO-Translation/2024/discussions/6) - 의견 있으신 분들 댓글 달아주시면 종합할 예정입니다 :)
 
 ### 2024년 3월 9일(토)
-* 연습 과제 : 2024 > contribution-docs > [march-week2-preparation.md](https://github.com/p5-js-KO-Translation/2024/blob/main/contribution-docs/march-week2-preparation.md) > 1) 색인 번역 & 2) 문단 1개 번역 (모든 기여자 해당)
+* 연습 과제 : 2024 > contribution-docs > [march-week2-preparation.md](https://github.com/p5-js-KO-Translation/2024/blob/main/contribution-docs/march-week2-preparation.md) > 1) 색인 번역, 2) 문단 1개 번역, 3) (필요시) [[p5.js KO] 음차 번역 기준 및 표기 제안](https://github.com/p5-js-KO-Translation/2024/discussions/6) 댓글 참여
 * 참고 : 2024 > Discussions > [Markdown(MD) 파일 수정 및 Commit 방법 안내](https://github.com/p5-js-KO-Translation/2024/discussions/)
 
 # 참고 자료 Resources
