@@ -4,7 +4,7 @@
 
 * 번역에 앞서, p5.js 웹에디터 친근한 오류 시스템 번역 가이드라인 중⭐[번역자 간의 약속](https://almchung.github.io/p5-fes-i18n-book/ch4/)⭐을 훑어보시면 도움이 되실 것 같습니다. 기존 한국어 번역자들의 고민과 노하우가 수록된 페이지입니다.
 
-## 1️⃣ 색인 번역 
+## 1️⃣ 색인 번역 Programming Glossary Translation
 
 1) [이 Google Sheet "Programming Glossary"](https://drive.google.com/drive/folders/1xE5fFNGicSoY9rTTN3XBf7-fhEhu43Gi) > 시트명 "[KO] 한국어 색인 (2024)" > 각자 이름에 할당된 구역 우측의 용어들 번역 (인당 14-16개 선)
 - 기존 한국어 번역 참고 자료 : 같은 파일내 시트명 "[KO] 한국어 색인 (2020)"
@@ -25,7 +25,7 @@
 
 
 
-## 2️⃣ 문단 1개 번역 
+## 2️⃣ 문단 1개 번역 "What Are Issues?" Translation
 
 1) 프로세싱 재단 GitHub > p5.js repo > 기여 가이드라인 (contributor_guidelines) MD 파일 중> [이슈(Issue)란 무엇인가](https://github.com/processing/p5.js/blob/main/contributor_docs/contributor_guidelines.md#what-are-issues) 섹션 문단 번역
 
@@ -62,7 +62,7 @@
 
 ✍️ 번역문
 
-이슈란 무엇인가?
+이슈란 무엇인가요?
 
 "이슈(issue)"란 깃허브(GitHub) 게시물의 하나로, 어떤 문제나 논의사항을 지칭하는 일반적인 표현입니다. 이슈는 버그 리포트, 새 기능 추가 요청, 토론, 또는 p5.js 라이브러리 개발과 관련된 모든 게시물 등을 포함합니다. 누구나 깃허브 계정만 있다면 이슈 게시물에 댓글을 남길 수 있습니다. 심지어 봇들도요! 다시말해, 이슈는 기여자들이 해당 리포지토리(repo) 내에서 프로젝트 개발 관련 주제들을 논의할 수 있는 곳입니다.
 
@@ -136,6 +136,6 @@
  
 
 
-## 3️⃣ 한국어팀 번역 기준 마련 
+## 3️⃣ 한국어팀 번역 기준 마련 Korean Translation Standards
 * 2024 > Discussions > [[p5.js KO] 음차 번역 기준 및 표기 제안](https://github.com/p5-js-KO-Translation/2024/discussions/6) - 2024년 3월 12일자로 연습과제 완료하신 팀원분들의 논의를 토대로 작성해보았습니다. 추가 의견 있으신 분들 댓글 달아주시면 추후 종합할 예정입니다 :)
 
