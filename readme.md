@@ -3,8 +3,16 @@
 ### * 주요 폴더 : [2024/contribution-docs](https://github.com/p5-js-KO-Translation/2024/tree/main/contribution-docs)
 ### * 외부 폴더 : [Google Folder](https://drive.google.com/drive/folders/1xE5fFNGicSoY9rTTN3XBf7-fhEhu43Gi?usp=drive_link)
 
+### 2024년 3월 14일(목)
+* 1차 과제 : 2024 > contribution-docs > [march-week3-assignment1.md](https://github.com/p5-js-KO-Translation/2024/blob/main/contribution-docs/march-week3-assignment1.md) >
+1) 기여자 문서 번역 성함 표기 (~3/14 오늘),
+2) 할당 기여자 문서 번역 (~3/20 수),
+3) (필요시) [[p5.js KO] 음차 번역 기준 및 표기 제안](https://github.com/p5-js-KO-Translation/2024/discussions/6) 댓글 참여
+* 참고 : 2024 > Discussions > [[p5.js KO] 풀 리퀘스트(Pull Request) 및 리뷰 과정 안내](https://github.com/p5-js-KO-Translation/2024/discussions/7)
+
+
 ### 2024년 3월 12일(화)
-* 2024 > Discussions > [[p5.js KO] 음차 번역 기준 및 표기 제안](https://github.com/p5-js-KO-Translation/2024/discussions/6) - 의견 있으신 분들 댓글 달아주시면 종합할 예정입니다 :)
+* 2024 > Discussions > [[p5.js KO] 음차 번역 표기, 어조 등 기준 제안](https://github.com/p5-js-KO-Translation/2024/discussions/6) - 의견 있으신 분들 댓글 달아주시면 종합할 예정입니다 :)
 
 ### 2024년 3월 9일(토)
 * 연습 과제 : 2024 > contribution-docs > [march-week2-preparation.md](https://github.com/p5-js-KO-Translation/2024/blob/main/contribution-docs/march-week2-preparation.md) > 1) 색인 번역, 2) 문단 1개 번역, 3) (필요시) [[p5.js KO] 음차 번역 기준 및 표기 제안](https://github.com/p5-js-KO-Translation/2024/discussions/6) 댓글 참여
