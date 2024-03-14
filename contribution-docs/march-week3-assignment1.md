@@ -21,7 +21,7 @@
 
 * 기여자님들은 위의 파일 4개를 둘러보시고, 아래의 표에 ⭐성함을 오늘중(3/14)⭐을 작성해주세요! (한 문서당 희망자가 2명 이상일 경우, 스튜어드가 별도 조정할 예정입니다.)
   
-|파일명(범위)| 번역 희망 기여자 성함 | ko > MD파일 링크|
+|파일명(범위)| 번역 희망 기여자 성함 | PR 링크|
 |---------|---|---|
 |Contributor Guidelines (처음 ~ [Using GitHub Desktop](https://github.com/processing/p5.js/blob/main/contributor_docs/contributor_guidelines.md#using-github-desktop) 블록까지) (약 2619 단어)| (장윤영) 1명       | [PR 링크](https://github.com/processing/p5.js/pull/6855) | 
 |Contributor Guidelines ( [Using the git command line interface](https://github.com/processing/p5.js/blob/main/contributor_docs/contributor_guidelines.md#using-the-git-command-line-interface) 블록 ~ 문서 끝까지) (약 2619 단어)| (장예원) 1명      | [PR 링크](https://github.com/processing/p5.js/pull/6855) |
