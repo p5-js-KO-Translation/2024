@@ -13,20 +13,20 @@
   
 * 그 중, 우리가 작업할 폴더는 당연히⭐[contributor_docs > ko 폴더](https://github.com/processing/p5.js/tree/main/contributor_docs/ko)⭐입니다. 폴더에 현존하는 문서 대다수는 2020년 이소은 [@mojosoeun](https://github.com/mojosoeun)님이 번역한 바 있습니다. 
 
-* 2024년 한국어 번역 기여자님 5명은 올해 새로 추가된 총 4개의 MD파일을 나누어 번역합니다:
-  * [Contributor Guidelines](https://github.com/processing/p5.js/blob/main/contributor_docs/ko/contributor_guidelines.md) (5239 단어)
-  * [Steward Guidelines](https://github.com/processing/p5.js/blob/main/contributor_docs/ko/steward_guidelines.md) (4194 단어)
-  * [Contributing to the p5.js Reference](https://github.com/processing/p5.js/blob/main/contributor_docs/ko/contributing_to_the_p5.js_reference.md) (2549 단어)
-  * [WebGL Contribution Guide](https://github.com/processing/p5.js/blob/main/contributor_docs/ko/webgl_contribution_guide.md)  (1250 단어)
+* 2024년 한국어 번역 기여자님 5명은 올해 새로 추가된 총 4개의 원문 MD파일을 나누어 번역합니다:
+  * [Contributor Guidelines](https://github.com/processing/p5.js/blob/main/contributor_docs/contributor_guidelines.md) (5239 단어)
+  * [Steward Guidelines](https://github.com/processing/p5.js/blob/main/contributor_docs/steward_guidelines.md) (4194 단어)
+  * [Contributing to the p5.js Reference](https://github.com/processing/p5.js/blob/main/contributor_docs/contributing_to_the_p5.js_reference.md) (2549 단어)
+  * [WebGL Contribution Guide](https://github.com/processing/p5.js/blob/main/contributor_docs/webgl_contribution_guide.md)  (1250 단어)
 
 * 기여자님들은 위의 파일 4개를 둘러보시고, 아래의 표에 ⭐성함을 오늘중(3/14)⭐을 작성해주세요! (한 문서당 희망자가 2명 이상일 경우, 스튜어드가 별도 조정할 예정입니다.)
   
 |파일명(범위)| 번역 희망 기여자 성함 |
 |---------|---|
-|Contributor Guidelines (처음 ~ [Using GitHub Desktop](https://github.com/processing/p5.js/blob/main/contributor_docs/ko/contributor_guidelines.md#using-github-desktop) 블록까지) (약 2619 단어)| (장윤영) 1명       |
-|Contributor Guidelines ( [Using the git command line interface](https://github.com/processing/p5.js/blob/main/contributor_docs/ko/contributor_guidelines.md#using-the-git-command-line-interface) 블록 ~ 문서 끝까지) (약 2619 단어)| (장예원) 1명      |
-|Steward Guidelines (처음 ~ [Main build task](https://github.com/processing/p5.js/blob/main/contributor_docs/ko/steward_guidelines.md#main-build-task) 블록 중 코드 `connect:server` 직전까지) (약 2722 단어)| (박성훈) 1명      |
-|Steward Guidelines ([Main build task](https://github.com/processing/p5.js/blob/main/contributor_docs/ko/steward_guidelines.md#main-build-task) 블록 중 코드 `connect:server` 다음 문장 ~ 끝까지) + WebGL Contribution Guide (전체) (약 2722 단어)| (이현우) 1명    |
+|Contributor Guidelines (처음 ~ [Using GitHub Desktop](https://github.com/processing/p5.js/blob/main/contributor_docs/contributor_guidelines.md#using-github-desktop) 블록까지) (약 2619 단어)| (장윤영) 1명       |
+|Contributor Guidelines ( [Using the git command line interface](https://github.com/processing/p5.js/blob/main/contributor_docs/contributor_guidelines.md#using-the-git-command-line-interface) 블록 ~ 문서 끝까지) (약 2619 단어)| (장예원) 1명      |
+|Steward Guidelines (처음 ~ [Main build task](https://github.com/processing/p5.js/blob/main/contributor_docs/steward_guidelines.md#main-build-task) 블록 중 코드 `connect:server` 직전까지) (약 2722 단어)| (박성훈) 1명      |
+|Steward Guidelines ([Main build task](https://github.com/processing/p5.js/blob/main/contributor_docs/steward_guidelines.md#main-build-task) 블록 중 코드 `connect:server` 다음 문장 ~ 끝까지) + WebGL Contribution Guide (전체) (약 2722 단어)| (이현우) 1명    |
 |Contributing to the p5.js Reference (전체) (2549 단어)| (성함) 1명    |
 
 * 표 내 별도 링크(a tag)는 PC상 확인 가능합니다.
@@ -39,6 +39,6 @@
 
 * 번역 범위: 제목(headings), 본문 텍스트만 입니다. (* 코드와 코드 블록, 이미지 대체 텍스트(alt text) 제외)
 
-* 이번 과제는 상기된 프로세싱 재단 Github Organization인 `processing > ... > contributor_doc > ko > 선택 MD 파일`에 직접 풀 리퀘스트(Pull Request)하는 식으로 진행됩니다. (* 우리 Org가 아닙니다!)
+* 이번 과제는 상기된 프로세싱 재단 Github Organization인 `processing > ... > contributor_doc > ko`에 ⭐여러분이 직접 새로운 MD파일을 생성, 풀 리퀘스트(Pull Request)⭐하는 식으로 진행됩니다. (* 우리 Org가 아닙니다!)
 
 * 우리 Github Organization > 2024 > Discussions > ⭐[[p5.js KO] 풀 리퀘스트(Pull Request) 및 리뷰 과정 안내](https://github.com/p5-js-KO-Translation/2024/discussions/7)⭐ 상의 기여 방법에 대해 숙지하시고 3/20(수)까지 진행하시면 되겠습니다! 질문은 언제든 스튜어드에게 공유해주세요😊
