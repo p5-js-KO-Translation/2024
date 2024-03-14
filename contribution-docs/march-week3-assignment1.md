@@ -47,3 +47,6 @@
   * 1차 커밋 완료후 나머지 번역은 추가 커밋으로 진행해주시면 됩니다.
 
 * 자세한건 우리 Github Organization > 2024 > Discussions > ⭐[[p5.js KO] 풀 리퀘스트(Pull Request) 및 리뷰 과정 안내](https://github.com/p5-js-KO-Translation/2024/discussions/7)⭐ 상의 기여 방법을 참고하시고, 전체 번역 PR과 리뷰는 3/20(수)까지 진행합니다! 질문은 언제든 스튜어드에게 공유해주세요😊
+
+* 충분한 수정과 검토 작업을 거치는 한, ChatGPT, 구글/파파고 번역기 등 활용 가능합니다.
+
