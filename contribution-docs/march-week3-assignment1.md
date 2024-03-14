@@ -23,11 +23,13 @@
   
 |파일명(범위)| 번역 희망 기여자 성함 |
 |---------|---|
-|ontributor Guidelines (처음 ~ [Using GitHub Desktop](https://github.com/processing/p5.js/blob/main/contributor_docs/ko/contributor_guidelines.md#using-github-desktop) 블록까지) (약 2619 단어)| (장윤영) 1명       |
+|Contributor Guidelines (처음 ~ [Using GitHub Desktop](https://github.com/processing/p5.js/blob/main/contributor_docs/ko/contributor_guidelines.md#using-github-desktop) 블록까지) (약 2619 단어)| (장윤영) 1명       |
 |Contributor Guidelines ( [Using the git command line interface](https://github.com/processing/p5.js/blob/main/contributor_docs/ko/contributor_guidelines.md#using-the-git-command-line-interface) 블록 ~ 문서 끝까지) (약 2619 단어)| (성함) 1명      |
 |Steward Guidelines (처음 ~ [Main build task](https://github.com/processing/p5.js/blob/main/contributor_docs/ko/steward_guidelines.md#main-build-task) 블록 중 코드 `connect:server` 직전까지) (약 2722 단어)| (성함) 1명      |
 |Steward Guidelines ([Main build task](https://github.com/processing/p5.js/blob/main/contributor_docs/ko/steward_guidelines.md#main-build-task) 블록 중 코드 `connect:server` 다음 문장 ~ 끝까지) + WebGL Contribution Guide (전체) (약 2722 단어)| (성함) 1명    |
 |Contributing to the p5.js Reference (전체) (2549 단어)| (성함) 1명    |
+
+* 표 내 별도 링크(a tag)는 PC상 확인 가능합니다.
 
 * 오늘(3/14)까지 작성된 성함 표기를 토대로 할당한 뒤, 추가 안내드리겠습니다!
   
