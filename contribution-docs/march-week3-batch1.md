@@ -29,7 +29,7 @@
 |Steward Guidelines ([Main build task](https://github.com/processing/p5.js/blob/main/contributor_docs/steward_guidelines.md#main-build-task) 블록 중 코드 `connect:server` 다음 문장 ~ 끝까지) + WebGL Contribution Guide (전체) (약 2722 단어)| (이현우) 1명    |[PR 링크 1](https://github.com/processing/p5.js/pull/6858) + [PR 링크 2](https://github.com/processing/p5.js/pull/6859)|
 |Contributing to the p5.js Reference (전체) (2549 단어)| (박민욱) 1명    |PR 링크|
 
-* 표 내 별도 링크(a tag)는 PC상 확인 가능합니다.
+* 표 내 별도 링크(a tag)는 PC, 모바일 인터넷 환경상 확인 가능합니다. (모바일 깃허브앱만 안되네요 ㅠㅠ)
 
 * 오늘(3/14)까지 작성된 성함 표기를 토대로 할당한 뒤, 추가 안내드리겠습니다!
   
