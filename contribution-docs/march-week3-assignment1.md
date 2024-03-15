@@ -39,7 +39,7 @@
 
 * 번역 범위: 제목(headings), 본문 텍스트만 입니다. (* 코드와 코드 블록, 이미지 대체 텍스트(alt text) 제외)
 
-* 이번 과제는 상기된 프로세싱 재단 Github Organization인 `processing > ... > contributor_doc > ko`에 ⭐여러분이 직접 새로운 MD파일을 생성, 풀 리퀘스트(Pull Request)⭐하는 식으로 진행됩니다. (* 우리 Org가 아닙니다!)
+* 이번 과제는 상기된 프로세싱 재단 Github Organization인 `processing > ... > contributor_doc > ko`에 ⭐여러분이 직접 새로운 MD파일을 생성, 풀 리퀘스트(Pull Request, PR)⭐하는 식으로 진행됩니다. (* 우리 Org가 아닙니다!) 여러분이 게시한 모든 PR은 `processing > p5.js >` [Pull Request 게시판](https://github.com/processing/p5.js/pulls)에 올라갑니다.
 
 * 하나의 MD 파일을 2인이상 번역하는 경우
 
