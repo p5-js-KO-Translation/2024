@@ -21,13 +21,13 @@
 
 * 기여자님들은 위의 파일 4개를 둘러보시고, 아래의 표에 ⭐성함을 오늘중(3/14)⭐을 작성해주세요! (한 문서당 희망자가 2명 이상일 경우, 스튜어드가 별도 조정할 예정입니다.)
   
-|파일명(범위)| 번역 희망 기여자 성함 | PR 링크|
-|---------|---|---|
-|Contributor Guidelines (처음 ~ [Using GitHub Desktop](https://github.com/processing/p5.js/blob/main/contributor_docs/contributor_guidelines.md#using-github-desktop) 블록까지) (약 2619 단어)| (장윤영) 1명       | [PR 링크](https://github.com/processing/p5.js/pull/6855) | 
-|Contributor Guidelines ( [Using the git command line interface](https://github.com/processing/p5.js/blob/main/contributor_docs/contributor_guidelines.md#using-the-git-command-line-interface) 블록 ~ 문서 끝까지) (약 2619 단어)| (장예원) 1명      | [PR 링크](https://github.com/processing/p5.js/pull/6855) |
-|Steward Guidelines (처음 ~ [Main build task](https://github.com/processing/p5.js/blob/main/contributor_docs/steward_guidelines.md#main-build-task) 블록 중 코드 `connect:server` 직전까지) (약 2722 단어)| (박성훈) 1명      | [PR 링크](https://github.com/processing/p5.js/pull/6874)|
-|Steward Guidelines ([Main build task](https://github.com/processing/p5.js/blob/main/contributor_docs/steward_guidelines.md#main-build-task) 블록 중 코드 `connect:server` 다음 문장 ~ 끝까지) + WebGL Contribution Guide (전체) (약 2722 단어)| (이현우) 1명    |[PR 링크1](https://github.com/processing/p5.js/pull/6874) + [PR 링크2](https://github.com/processing/p5.js/pull/6859)|
-|Contributing to the p5.js Reference (전체) (2549 단어)| (박민욱) 1명    |[PR 링크](https://github.com/processing/p5.js/pull/6868/files)|
+|파일명(범위)| 기여자 | PR 링크| 1차 리뷰 | 2차 리뷰 | 
+|---------|---|---|---|---|
+|Contributor Guidelines (처음 ~ [Using GitHub Desktop](https://github.com/processing/p5.js/blob/main/contributor_docs/contributor_guidelines.md#using-github-desktop) 블록까지) (약 2619 단어)| 장윤영| [PR 링크](https://github.com/processing/p5.js/pull/6855) | 염인화 | 오세진 |
+|Contributor Guidelines ( [Using the git command line interface](https://github.com/processing/p5.js/blob/main/contributor_docs/contributor_guidelines.md#using-the-git-command-line-interface) 블록 ~ 문서 끝까지) (약 2619 단어)| 장예원 | [PR 링크](https://github.com/processing/p5.js/pull/6855) | 오세진 | 염인화 |
+|Steward Guidelines (처음 ~ [Main build task](https://github.com/processing/p5.js/blob/main/contributor_docs/steward_guidelines.md#main-build-task) 블록 중 코드 `connect:server` 직전까지) (약 2722 단어)| 박성훈 | [PR 링크](https://github.com/processing/p5.js/pull/6874)| 오세진 | 염인화|
+|Steward Guidelines ([Main build task](https://github.com/processing/p5.js/blob/main/contributor_docs/steward_guidelines.md#main-build-task) 블록 중 코드 `connect:server` 다음 문장 ~ 끝까지) + WebGL Contribution Guide (전체) (약 2722 단어)| 이현우 |[PR 링크1](https://github.com/processing/p5.js/pull/6874) + [PR 링크2](https://github.com/processing/p5.js/pull/6859)| 염인화 | 오세진 | 
+|Contributing to the p5.js Reference (전체) (2549 단어)| 박민욱 |[PR 링크](https://github.com/processing/p5.js/pull/6868/files)| 염인화 | 오세진 |
 
 * 표 내 별도 링크(a tag)는 PC, 모바일 인터넷 환경상 확인 가능합니다. (모바일 깃허브앱만 안되네요 ㅠㅠ)
 
