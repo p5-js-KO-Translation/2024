@@ -46,6 +46,7 @@
 * 하나의 MD 파일을 2인이상 번역하는 경우
 
   * 해당 파일 앞부분을 번역하시는 분이 아래의 가이드라인에 따라 MD 파일을 먼저 생성, 영어 원문을 복붙후 커밋합니다.
+  * 먼저 PR 생성하신 기여자님은 자신의 로컬 포크에 대한 쓰기 권한을 [이 가이드라인(@limzikenneth 님 제공)](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-teams-and-people-with-access-to-your-repository)에 따라, 협업 기여자님께 공유합니다.
   * 1차 커밋 완료후 나머지 번역은 추가 커밋으로 진행해주시면 됩니다.
 
 * 자세한건 우리 Github Organization > 2024 > Discussions > ⭐[[p5.js KO] 풀 리퀘스트(Pull Request) 및 리뷰 과정 안내](https://github.com/p5-js-KO-Translation/2024/discussions/7)⭐ 상의 기여 방법을 참고하시고, 전체 번역 PR과 리뷰는 3/20(수)까지 진행합니다! 질문은 언제든 스튜어드에게 공유해주세요😊
