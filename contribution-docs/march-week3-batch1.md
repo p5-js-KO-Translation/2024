@@ -39,7 +39,7 @@
 
 * 번역 범위: 제목(headings), 본문 텍스트만 입니다. (* 코드와 코드 블록, 이미지 대체 텍스트(alt text) 제외)
 
-* 번역 및 리뷰 진행 순서: PR 최초 게시(init) -> 1차 번역 커밋 -> 1차 리뷰 코멘트 -> 1차 리뷰 반영한 2차 번역 커밋 -> 2차 리뷰 코멘트 (또는 생략 후 스튜어드 승인) [-> 2차 리뷰 반영한 3차 반영 커밋 -> 스튜어드 승인] -> maintainer 최종 PR 머징 및 `processing > p5.js > contributor_docs` 게시 
+* 번역 및 리뷰 진행 순서: PR 최초 게시(init) > 스튜어드 2인 및 공동 기여자 쓰기 권한 공유 > 1차 번역 커밋 > 1차 리뷰 코멘트 > 1차 리뷰 반영한 2차 번역 커밋 > 2차 리뷰 코멘트 (또는 생략 후 스튜어드 승인) [> 2차 리뷰 반영한 3차 반영 커밋 > 스튜어드 승인] > maintainer 최종 PR 머징 및 `processing > p5.js > contributor_docs` 게시 
 
 * 이번 과제는 상기된 프로세싱 재단 Github Organization인 `processing > ... > contributor_doc > ko`에 ⭐여러분이 직접 새로운 MD파일을 생성, 풀 리퀘스트(Pull Request, PR)⭐하는 식으로 진행됩니다. (* 우리 Org가 아닙니다!) 여러분이 게시한 모든 PR은 `processing > p5.js >` [Pull Request 게시판](https://github.com/processing/p5.js/pulls)에 올라갑니다.
 
