@@ -23,7 +23,7 @@
   
 |파일명(범위)| 기여자 | PR 링크| 1차 리뷰 | 2차 리뷰 | Approve |
 |---------|---|---|---|---|---|
-|Contributor Guidelines (처음 ~ [Using GitHub Desktop](https://github.com/processing/p5.js/blob/main/contributor_docs/contributor_guidelines.md#using-github-desktop) 블록까지) (약 2619 단어)| 장윤영| [PR 링크](https://github.com/processing/p5.js/pull/6855) | 염인화 | 오세진 | |
+|Contributor Guidelines (처음 ~ [Using GitHub Desktop](https://github.com/processing/p5.js/blob/main/contributor_docs/contributor_guidelines.md#using-github-desktop) 블록까지) (약 2619 단어)| 장윤영| [PR 링크](https://github.com/processing/p5.js/pull/6855) | 염인화 | 오세진 | 🚦|
 |Contributor Guidelines ( [Using the git command line interface](https://github.com/processing/p5.js/blob/main/contributor_docs/contributor_guidelines.md#using-the-git-command-line-interface) 블록 ~ 문서 끝까지) (약 2619 단어)| 장예원 | [PR 링크](https://github.com/processing/p5.js/pull/6855) | 오세진 | 염인화 | |
 |Steward Guidelines (처음 ~ [Main build task](https://github.com/processing/p5.js/blob/main/contributor_docs/steward_guidelines.md#main-build-task) 블록 중 코드 `connect:server` 직전까지) (약 2722 단어)| 박성훈 | [PR 링크](https://github.com/processing/p5.js/pull/6874)| 오세진 | 염인화| |
 |Steward Guidelines ([Main build task](https://github.com/processing/p5.js/blob/main/contributor_docs/steward_guidelines.md#main-build-task) 블록 중 코드 `connect:server` 다음 문장 ~ 끝까지) + WebGL Contribution Guide (전체) (약 2722 단어)| 이현우 |[PR 링크1](https://github.com/processing/p5.js/pull/6874) + [PR 링크2](https://github.com/processing/p5.js/pull/6859)| 염인화 + 오세진 | 오세진 + 염인화 |  |
