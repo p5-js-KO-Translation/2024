@@ -20,7 +20,7 @@
 |------------------|------------|------------|------------|------------|------------|
 | **기여자 1** <br> [Accessibility](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=0) (4개) <br> [Environment](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=1569241725) (22개) <br> [Math](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=1902976036) `abs() ~ fract() 까지` (18개) | 이현우 | |  |  | |
 | **기여자 2** <br> [Color](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=1979756940) (26개) <br> [Shape](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=1518816676) (15개) |장윤영 | |  |  | |
-| **기여자 3** <br> [Math](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=1902976036) `noise()부터 끝까지` (47개) | | |  |  | |
+| **기여자 3** <br> [Math](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=1902976036) `noise()부터 끝까지` (47개) | 장예원 | |  |  | |
 | **기여자 4** <br> [DOM](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=1729250167) (42개) | | |  |  | |
 | **기여자 5** <br> [Image](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=1092406357) (36개) <br> [Typography](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=1291555554) (14개) | 박성훈 | |  |  | |
 
