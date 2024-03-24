@@ -3,6 +3,13 @@
 ### * 주요 폴더 : [2024/contribution-docs](https://github.com/p5-js-KO-Translation/2024/tree/main/contribution-docs)
 ### * 외부 폴더 : [Google Folder](https://drive.google.com/drive/folders/1xE5fFNGicSoY9rTTN3XBf7-fhEhu43Gi?usp=drive_link)
 
+### 2024년 3월 24일(일)
+* 1차 과제 : 2024 > contribution-docs > [march-week4-batch2.md](https://github.com/p5-js-KO-Translation/2024/blob/main/contribution-docs/march-week4-batch2.md) >
+1) 기여자 문서 번역 성함 표기 (~3/24 오늘)
+2) 할당 기여자 문서 번역 (스튜어드 리뷰 포함, ~3/29 금)
+3) [GitLocalize](https://gitlocalize.com/repo/9451/ko/src/content/reference/en/p5) 상에서 번역 및 리뷰 작업 수행
+* 참고 : 2024 > Discussions > [[p5.js KO] GitLocalize 번역 및 리뷰 과정 안내](https://github.com/p5-js-KO-Translation/2024/discussions/11)
+
 ### 2024년 3월 14일(목)
 * 1차 과제 : 2024 > contribution-docs > [march-week3-batch1.md](https://github.com/p5-js-KO-Translation/2024/blob/main/contribution-docs/march-week3-batch1.md) >
 1) 기여자 문서 번역 성함 표기 (~3/14 오늘)
