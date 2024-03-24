@@ -1,6 +1,6 @@
 # 2차 과제 (마감: ~3/29 금)
 
-* 아래 과제 가이드라인은 p5.js 프로젝트 리드 치안치안 예(Qianqian Ye)님 제공 원문을 한국어 스튜어드가 번역, 가공한 것입니다. 원문은 announcement > Discussion > [이 Discussion 포스트 (private)](https://github.com/orgs/p5-js-KO-Translation/discussions/6) 상에서 확인 가능합니다.
+* 아래 과제 가이드라인은 p5.js 프로젝트 리드 치안치안 예(Qianqian Ye)님 제공 원문을 한국어 스튜어드가 번역, 가공한 것입니다. 원문은 announcement > Discussion > [이 Discussion 포스트 (private)](https://github.com/orgs/p5-js-KO-Translation/discussions/7) 상에서 확인 가능합니다.
 
 ## 번역에 앞서
 
