@@ -21,7 +21,7 @@
 | **기여자 1** <br> [Accessibility](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=0) (4개) <br> [Environment](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=1569241725) (22개) <br> [Math](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=1902976036) `abs() ~ fract() 까지` (18개) | 이현우 | [PR](https://github.com/bocoup/p5.js-website/pull/87) |  |  | |
 | **기여자 2** <br> [Color](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=1979756940) (26개) <br> [Shape](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=1518816676) (15개) |장윤영 |[PR](https://github.com/bocoup/p5.js-website/pull/83) |  |  | |
 | **기여자 3** <br> [Math](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=1902976036) `noise()부터 끝까지` (47개) | 장예원 | [PR](https://github.com/bocoup/p5.js-website/pull/99) |  |  | |
-| **기여자 4** <br> [DOM](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=1729250167) (42개) | 박민욱 | |  |  | |
+| **기여자 4** <br> [DOM](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=1729250167) (42개) | 박민욱 | `머지완료` |  |  | |
 | **기여자 5** <br> [Image](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=1092406357) (36개) <br> [Typography](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=1291555554) (14개) | 박성훈 | |  |  | |
 
 * 기여자님들은 위의 범위들을 둘러보시고, 표에 ⭐성함을 오늘중(3/24)⭐으로 작성해주세요! (한 범위당 희망자가 2명 이상일 경우, 스튜어드가 별도 조정할 예정입니다.)
