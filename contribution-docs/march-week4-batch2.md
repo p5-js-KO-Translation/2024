@@ -17,7 +17,7 @@
 * 총 233개의 레퍼런스를 기여자 5분에 맞게 탭 기준 각각 약 45개씩 나누어 아래 표에 기재하였습니다.
 
 |시트 탭 기준 (범위)| 기여자 | PR 링크| 리뷰 | Approve |
-|------------------|------------|------------|------------|------------|------------|
+|------------------|------------|------------|------------|------------|
 | **기여자 1** <br> [Accessibility](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=0) (4개) <br> [Environment](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=1569241725) (22개) <br> [Math](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=1902976036) `abs() ~ fract() 까지` (18개) | 이현우 | [PR](https://github.com/bocoup/p5.js-website/pull/87) | ✅ |  |
 | **기여자 2** <br> [Color](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=1979756940) (26개) <br> [Shape](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=1518816676) (15개) |장윤영 |[PR](https://github.com/bocoup/p5.js-website/pull/83) |  |  |
 | **기여자 3** <br> [Math](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit#gid=1902976036) `noise()부터 끝까지` (47개) | 장예원 | [PR](https://github.com/bocoup/p5.js-website/pull/99) | ✅ | ✅ |
