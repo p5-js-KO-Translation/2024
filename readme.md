@@ -4,7 +4,7 @@
 ### * 외부 폴더 : [Google Folder](https://drive.google.com/drive/folders/1xE5fFNGicSoY9rTTN3XBf7-fhEhu43Gi?usp=drive_link)
 
 ### 2024년 4월 6일(토)
-* 3차 과제 [april-week1-batch3.md](https://github.com/p5-js-KO-Translation/2024/blob/main/contribution-docs/april-week1-batch3.md) > 
+* 3차 과제 : 2024 > contribution-docs > [april-week1-batch3.md](https://github.com/p5-js-KO-Translation/2024/blob/main/contribution-docs/april-week1-batch3.md) > 
 1) 기여자 문서 번역 성함 표기 (~4/6 토, 오늘)
 2) 할당 기여자 문서 번역 (스튜어드 리뷰 포함, ~4/9 화)
 3) (필요시) [[p5.js KO] 음차 번역 기준 및 표기 제안](https://github.com/p5-js-KO-Translation/2024/discussions/6) 댓글 참여
