@@ -21,22 +21,23 @@
 ### 1. p5.js 웹사이트 메뉴, About 페이지, Index 페이지 번역 (기여자님 1명 - "성함A")
 * 기존 [p5.js 웹사이트](https://p5js.org/ko) 번역을 유지, 수정하면 됩니다.
 
- 1) `github.com/bocoup/p5.js-website>...>content>ui` > [ko.yaml](https://github.com/bocoup/p5.js-website/tree/main/src/content/ui) 파일 수정, 번역
+`github.com/bocoup/p5.js-website>...>content>ui` > [ko.yaml](https://github.com/bocoup/p5.js-website/tree/main/src/content/ui) 파일 수정, 번역
  
- 2) `github.com/bocoup/p5.js-website>...>text-detail>ko` > [about.mdx](https://github.com/bocoup/p5.js-website/tree/main/src/content/text-detail/ko) 파일 수정, 번역
+`github.com/bocoup/p5.js-website>...>text-detail>ko` > [about.mdx](https://github.com/bocoup/p5.js-website/tree/main/src/content/text-detail/ko) 파일 수정, 번역
  
- 3) `github.com/bocoup/p5.js-website>...>text-detail>ko` > [index.mdx](https://github.com/bocoup/p5.js-website/tree/main/src/content/text-detail/ko) 파일 수정, 번역 (index.mdx 파일 번역 범위: 11, 25, 29번째 줄만. 이 중 11번째 줄은 about.mdx의 11번째 줄과 동일합니다.)
+`github.com/bocoup/p5.js-website>...>text-detail>ko` > [index.mdx](https://github.com/bocoup/p5.js-website/tree/main/src/content/text-detail/ko) 파일 수정, 번역 (index.mdx 파일 번역 범위: 11, 25, 29번째 줄만. 이 중 11번째 줄은 about.mdx의 11번째 줄과 동일합니다.)
     
 
 ### 2. 예제 Examples (기여자님 2명 - "성함B", "성함C")
 
- `github.com/bocoup/p5.js-website>...>` [examples>ko](https://github.com/bocoup/p5.js-website/tree/main/src/content/examples/ko) > 총 15개 폴더 내 `description.mdx` 파일들 수정, 번역
  * 기존 [p5.js 웹사이트 예제](https://p5js.org/ko/examples) 번역을 유지, 수정하면 됩니다.
  * 번역 범위: 제목 title, 한줄 설명 one-line-description, 긴 설명 long description.
- 
-"성함B" - `examples>ko` > 01 ~ 09 넘버링된 총 9개 폴더 내 `description.mdx` 파일들 수정, 번역
 
-"성함C" - `examples>ko` > 10 ~ 15 넘버링된 총 8개 폴더 내 `description.mdx` 파일들 수정, 번역
+`github.com/bocoup/p5.js-website>...>` [examples>ko](https://github.com/bocoup/p5.js-website/tree/main/src/content/examples/ko) > 총 15개 폴더 내 `description.mdx` 파일들 수정, 번역
+
+* "성함B" - `examples>ko` > 01 ~ 09 넘버링된 총 9개 폴더 내 `description.mdx` 파일들 수정, 번역
+
+* "성함C" - `examples>ko` > 10 ~ 15 넘버링된 총 8개 폴더 내 `description.mdx` 파일들 수정, 번역
 
 
 ### 3. 기존 번역한 `기여자 문서` 추가 작업 (기여자님 1명 - "성함D")
