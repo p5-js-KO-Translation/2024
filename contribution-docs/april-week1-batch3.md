@@ -57,4 +57,6 @@
 
 * [풀 리퀘스트 및 리뷰 과정 안내](https://github.com/p5-js-KO-Translation/2024/discussions/7) 참고하셔서 진행하시면 됩니다.
 
+* 과제 완료후 [우리 Org > Discussion> 8시간 달성 포스트](https://github.com/p5-js-KO-Translation/2024/discussions/10)에 업무 시간 로깅 댓글 꼭 달아주세요!
+
 * 충분한 수정과 검토 작업을 거치는 한, 초벌 단계에서는 ChatGPT, 구글/파파고 번역기 등 활용 가능합니다.
