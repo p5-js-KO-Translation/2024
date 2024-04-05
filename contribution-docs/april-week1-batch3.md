@@ -25,11 +25,8 @@
  
  2) `github.com/bocoup/p5.js-website>...>text-detail>ko` > [about.mdx](https://github.com/bocoup/p5.js-website/tree/main/src/content/text-detail/ko) 파일 수정, 번역
  
- 3) `github.com/bocoup/p5.js-website>...>text-detail>ko` > [index.mdx](https://github.com/bocoup/p5.js-website/tree/main/src/content/text-detail/ko) 파일 수정, 번역
- * index.mdx 파일 번역 범위: 11, 25, 29번째 줄만. 이 중 11번째 줄은 about.mdx의 11번째 줄과 동일합니다.
- 
- * "성함A" 기여자님은 아래 2번도 함께 진행하시면 됩니다! 
-
+ 3) `github.com/bocoup/p5.js-website>...>text-detail>ko` > [index.mdx](https://github.com/bocoup/p5.js-website/tree/main/src/content/text-detail/ko) 파일 수정, 번역 (index.mdx 파일 번역 범위: 11, 25, 29번째 줄만. 이 중 11번째 줄은 about.mdx의 11번째 줄과 동일합니다.)
+    
 
 ### 2. 예제 Examples (기여자님 3명 - "성함B", "성함C")
 
