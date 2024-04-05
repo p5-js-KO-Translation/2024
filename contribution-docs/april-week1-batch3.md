@@ -28,7 +28,7 @@
  3) `github.com/bocoup/p5.js-website>...>text-detail>ko` > [index.mdx](https://github.com/bocoup/p5.js-website/tree/main/src/content/text-detail/ko) 파일 수정, 번역 (index.mdx 파일 번역 범위: 11, 25, 29번째 줄만. 이 중 11번째 줄은 about.mdx의 11번째 줄과 동일합니다.)
     
 
-### 2. 예제 Examples (기여자님 3명 - "성함B", "성함C")
+### 2. 예제 Examples (기여자님 2명 - "성함B", "성함C")
 
  `github.com/bocoup/p5.js-website>...>` [examples>ko](https://github.com/bocoup/p5.js-website/tree/main/src/content/examples/ko) 폴더 내 총 15개 파일 수정, 번역
  * 기존 [p5.js 웹사이트 예제](https://p5js.org/ko/examples) 번역을 유지, 수정하면 됩니다.
