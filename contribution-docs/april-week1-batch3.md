@@ -30,7 +30,7 @@
 
 ### 2. 예제 Examples (기여자님 2명 - "성함B", "성함C")
 
- `github.com/bocoup/p5.js-website>...>` [examples>ko](https://github.com/bocoup/p5.js-website/tree/main/src/content/examples/ko) 폴더 내 총 15개 파일 수정, 번역
+ `github.com/bocoup/p5.js-website>...>` [examples>ko](https://github.com/bocoup/p5.js-website/tree/main/src/content/examples/ko) > 총 15개 폴더 내 `description.mdx` 파일들 수정, 번역
  * 기존 [p5.js 웹사이트 예제](https://p5js.org/ko/examples) 번역을 유지, 수정하면 됩니다.
  * 번역 범위: 제목 title, 한줄 설명 one-line-description, 긴 설명 long description.
  
