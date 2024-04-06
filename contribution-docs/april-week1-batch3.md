@@ -35,7 +35,7 @@
 
 `github.com/bocoup/p5.js-website>...>` [examples>ko](https://github.com/bocoup/p5.js-website/tree/main/src/content/examples/ko) > 총 15개 폴더 내 `description.mdx` 파일들 수정, 번역
 
-* "성함B" - `examples>ko` > 01 ~ 09 넘버링된 총 9개 폴더 내 `description.mdx` 파일들 수정, 번역
+* "이현우" - `examples>ko` > 01 ~ 09 넘버링된 총 9개 폴더 내 `description.mdx` 파일들 수정, 번역
 
 * "성함C" - `examples>ko` > 10 ~ 15 넘버링된 총 8개 폴더 내 `description.mdx` 파일들 수정, 번역
 
