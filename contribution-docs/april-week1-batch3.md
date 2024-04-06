@@ -28,7 +28,7 @@
 `github.com/bocoup/p5.js-website>...>text-detail>ko` > [index.mdx](https://github.com/bocoup/p5.js-website/tree/main/src/content/text-detail/ko) 파일 수정, 번역 (index.mdx 파일 번역 범위: 11, 25, 29번째 줄만. 이 중 11번째 줄은 about.mdx의 11번째 줄과 동일합니다.)
     
 
-### 2. 예제 Examples (기여자님 2명 - "이현우", "성함C","박민욱")
+### 2. 예제 Examples (기여자님 3명 - "이현우", "성함C","박민욱")
 
  * 기존 [p5.js 웹사이트 예제](https://p5js.org/ko/examples) 번역을 유지, 수정하면 됩니다.
  * 번역 범위: 제목 title, 한줄 설명 one-line-description, 긴 설명 long description.
@@ -42,7 +42,7 @@
 * "박민욱" - `examples>ko` > 11 ~ 15 넘버링된 총 8개 폴더 내 `description.mdx` 파일들 수정, 번역
 
 
-### 3. 기존 번역한 `기여자 문서` 추가 작업 (기여자님 1명 - "성함E")
+### 3. 기존 번역한 `기여자 문서` 추가 작업 (기여자님 1명 - "박성훈")
   
 
 `github.com/processing` >...> [contributor_docs > ko](https://github.com/processing/p5.js/tree/main/contributor_docs/ko) 폴더 > [access.md](https://github.com/processing/p5.js/blob/main/contributor_docs/access.md) 전체 파일 복제, 번역 (* 기존 1차 과제와 동일한 깃허브 경로인 점 유의하세요!)
