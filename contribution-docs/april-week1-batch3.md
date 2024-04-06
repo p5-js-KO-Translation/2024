@@ -18,7 +18,7 @@
 기여자님들은 아래의 과제 할당 사항을 둘러보시고, 표에 ⭐성함을 오늘중(4/6)⭐으로 작성해주세요! 
 
 
-### 1. p5.js 웹사이트 메뉴, About 페이지, Index 페이지 번역 (기여자님 1명 - "성함A")
+### 1. p5.js 웹사이트 메뉴, About 페이지, Index 페이지 번역 (기여자님 1명 - "장윤영")
 * 기존 [p5.js 웹사이트](https://p5js.org/ko) 번역을 유지, 수정하면 됩니다.
 
 `github.com/bocoup/p5.js-website>...>content>ui` > [ko.yaml](https://github.com/bocoup/p5.js-website/tree/main/src/content/ui) 파일 수정, 번역
