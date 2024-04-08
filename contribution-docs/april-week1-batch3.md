@@ -26,6 +26,10 @@
 `github.com/bocoup/p5.js-website>...>text-detail>ko` > [about.mdx](https://github.com/bocoup/p5.js-website/tree/main/src/content/text-detail/ko) 파일 수정, 번역
  
 `github.com/bocoup/p5.js-website>...>text-detail>ko` > [index.mdx](https://github.com/bocoup/p5.js-website/tree/main/src/content/text-detail/ko) 파일 수정, 번역 (index.mdx 파일 번역 범위: 11, 25, 29번째 줄만. 이 중 11번째 줄은 about.mdx의 11번째 줄과 동일합니다.)
+
+| PR | 1차 리뷰 | 2차 리뷰 | Approve | Merge |
+|------|---|---|---|---|
+| p5.js 웹 번역 - 윤영님  |  |  | | |
     
 
 ### 2. 예제 Examples (기여자님 3명 - "이현우", "장예원","박민욱")
@@ -41,6 +45,12 @@
 
 * "박민욱" - `examples>ko` > 11 ~ 15 넘버링된 총 8개 폴더 내 `description.mdx` 파일들 수정, 번역
 
+| PR | 1차 리뷰 | 2차 리뷰 | Approve | Merge |
+|------|---|---|---|---|
+| [예제 01 ~ 05 번역 - 현우님](https://github.com/bocoup/p5.js-website/pull/144) | 염인화 | 오세진 | | |
+| 예제 06 ~ 10 번역 - 예원님 |  |  | | |
+| 예제 11 ~ 15 번역 - 민욱님 |  |  | | |
+
 
 ### 3. 기존 번역한 `기여자 문서` 추가 작업 (기여자님 1명 - "박성훈")
   
@@ -52,6 +62,10 @@
   * Steward Guidelines
   * Contributing to the p5.js Reference
   * WebGL Contribution Guide
+
+| PR | 1차 리뷰 | 2차 리뷰 | Approve | Merge |
+|------|---|---|---|---|
+| 기여자 문서 추가 번역 - 성훈님 |  |  | | |
     
 
 ## 위 문서 번역 기여 방법
