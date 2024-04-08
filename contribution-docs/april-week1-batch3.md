@@ -39,7 +39,7 @@
 
 | PR | 1차 리뷰 | 2차 리뷰 | Approve | Merge |
 |------|---|---|---|---|
-| [예제 01 ~ 05 번역 - 현우님](https://github.com/bocoup/p5.js-website/pull/144) | 염인화 | 오세진 | | |
+| [예제 01 ~ 05 번역 - 현우님](https://github.com/bocoup/p5.js-website/pull/144) | 염인화 | 오세진 | ✅ | |
 | 예제 06 ~ 10 번역 - 예원님 |  |  | | |
 | 예제 11 ~ 15 번역 - 민욱님 |  |  | | |
 
