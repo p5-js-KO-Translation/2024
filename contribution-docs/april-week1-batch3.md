@@ -22,7 +22,7 @@
 
 | PR | 1차 리뷰 | 2차 리뷰 | Approve | Merge |
 |------|---|---|---|---|
-| [p5.js 웹 번역 - 윤영님](https://github.com/bocoup/p5.js-website/pull/173) | 염인화 | 오세진 | | |
+| [p5.js 웹 번역 - 윤영님](https://github.com/bocoup/p5.js-website/pull/173) | 염인화 | 오세진 | ✅ | |
 
 * 기존 [p5.js 웹사이트](https://p5js.org/ko) 번역을 유지, 수정하면 됩니다.
 
