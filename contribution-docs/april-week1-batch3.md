@@ -41,7 +41,7 @@
 |------|---|---|---|---|
 | [예제 01 ~ 05 번역 - 현우님](https://github.com/bocoup/p5.js-website/pull/144) | 염인화 | 오세진 | ✅ | ✅ |
 | [예제 06 ~ 10 번역 - 예원님](https://github.com/bocoup/p5.js-website/pull/167) | 염인화 | 오세진 | ✅ |  |
-| [예제 11 ~ 15 번역 - 민욱님](https://github.com/bocoup/p5.js-website/pull/166) | 오세진 | 염인화 |  | |
+| [예제 11 ~ 15 번역 - 민욱님](https://github.com/bocoup/p5.js-website/pull/166) | 오세진 | 염인화 | ✅ | |
 
  * 기존 [p5.js 웹사이트 예제](https://p5js.org/ko/examples) 번역을 유지, 수정하면 됩니다.
  * 번역 범위: 제목 title, 한줄 설명 one-line-description, 긴 설명 long description.
