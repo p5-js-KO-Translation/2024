@@ -60,7 +60,7 @@
 
 | PR | 1차 리뷰 | 2차 리뷰 | Approve | Merge |
 |------|---|---|---|---|
-| [기여자 문서 추가 번역 - 성훈님](https://github.com/processing/p5.js/pull/6951) | 오세진 | 염인화 | ✅ | |
+| [기여자 문서 추가 번역 - 성훈님](https://github.com/processing/p5.js/pull/6951) | 오세진 | 염인화 | ✅ | ✅ |
 
 `github.com/processing` >...> [contributor_docs > ko](https://github.com/processing/p5.js/tree/main/contributor_docs/ko) 폴더 > [access.md](https://github.com/processing/p5.js/blob/main/contributor_docs/access.md) 전체 파일 복제, 번역 (* 기존 1차 과제와 동일한 깃허브 경로인 점 유의하세요!)
 
