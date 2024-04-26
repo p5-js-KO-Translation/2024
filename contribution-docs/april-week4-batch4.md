@@ -4,11 +4,11 @@
 
 ## 번역에 앞서
 
-* 2024 > Discussions > ⭐[[p5.js KO] 음차 번역 표기, 어조 등 기준 제안](https://github.com/p5-js-KO-Translation/2024/discussions/6)⭐ 이 디스커션 포스트에서 계속해서 댓글에서 의견 공유해요 :)!
+* 2024 > Discussions > ⭐[[p5.js KO] 음차 번역 표기, 어조 등 기준 제안](https://github.com/p5-js-KO-Translation/2024/discussions/6)⭐ 이 디스커션 포스트에서 계속해서 댓글에서 의견 공유해요 :)
 
 
 
-### 레퍼런스 문서 번역 (성함 표기: ~4/27 오늘)
+## 레퍼런스 문서 번역 (성함 표기: ~4/27 오늘)
 
 * 해당 레퍼런스 리스트는 이 [스프레드 시트](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=1518816676)의 6개의 탭에서 확인하실 수 있습니다.
   1. Shape (28개)
