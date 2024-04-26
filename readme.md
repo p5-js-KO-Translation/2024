@@ -3,6 +3,13 @@
 ### * 주요 폴더 : [2024/contribution-docs](https://github.com/p5-js-KO-Translation/2024/tree/main/contribution-docs)
 ### * 외부 폴더 : [Google Folder](https://drive.google.com/drive/folders/1xE5fFNGicSoY9rTTN3XBf7-fhEhu43Gi?usp=drive_link)
 
+### 2024년 4월 27일(토)
+* 4차 과제 : 2024 > contribution-docs > [april-week4-batch4.md](https://github.com/p5-js-KO-Translation/2024/blob/main/contribution-docs/april-week4-batch4.md) > 
+1) 레퍼런스 문서 번역 성함 표기 (~4/27 토, 오늘)
+2) 할당 레퍼런스 문서 번역 (스튜어드 리뷰 포함, ~4/30 화)
+3) (필요시) [[p5.js KO] 음차 번역 기준 및 표기 제안](https://github.com/p5-js-KO-Translation/2024/discussions/6) 댓글 참여
+* 참고 : 2024 > Discussions > [[p5.js KO] 풀 리퀘스트(Pull Request) 및 리뷰 과정 안내](https://github.com/p5-js-KO-Translation/2024/discussions/7)
+
 ### 2024년 4월 6일(토)
 * 3차 과제 : 2024 > contribution-docs > [april-week1-batch3.md](https://github.com/p5-js-KO-Translation/2024/blob/main/contribution-docs/april-week1-batch3.md) > 
 1) 기여자 문서 번역 성함 표기 (~4/6 토, 오늘)
