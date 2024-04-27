@@ -24,7 +24,7 @@
 
 |시트 탭 기준 (범위)| 기여자 | PR 링크| 리뷰 | Approve |
 |------------------|------------|------------|------------|------------|
-| **장윤영* <br> [Shape](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=1518816676) (28개) |  |  |  |  |
+| **장윤영 ** <br> [Shape](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=1518816676) (28개) |  |  |  |  |
 | **기여자 2** <br> [Events](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=1034791071)  (31개) |  |  |  |  |
 | **기여자 3** <br> [Foundation](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=1397595777) (11개) <br> [3D](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=1991454505) `처음부터 textureMode()까지` (18개) |  |  |  |  |
 | **기여자 4** <br> [3D](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=1991454505) `textureWrap()부터 p5.Camera.perspective()까지` (28개) |  |  |  |  |
