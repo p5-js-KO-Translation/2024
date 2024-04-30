@@ -22,7 +22,7 @@
   
 * 총 128개의 레퍼런스를 기여자 5분에 맞게 탭 기준 각각 약 28개씩 나누어 아래 표에 기재하였습니다.
 
-|시트 탭 기준 (범위)| 기여자 | PR 링크| 1차 리뷰 | 2차 리뷰 |  Approve |
+|시트 탭 기준 (범위)| 기여자 | PR 링크| 
 |------------------|------------|------------|
 | **기여자 1** <br> [Shape](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=1518816676) (28개) | 장윤영 | [PR](https://github.com/processing/p5.js-website/pull/287/commits) |
 | **기여자 2** <br> [Events](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=1034791071)  (31개) | 박민욱 | [PR](https://github.com/processing/p5.js-website/pull/290#pullrequestreview-2028785227) |
