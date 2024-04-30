@@ -23,12 +23,12 @@
 * 총 128개의 레퍼런스를 기여자 5분에 맞게 탭 기준 각각 약 28개씩 나누어 아래 표에 기재하였습니다.
 
 |시트 탭 기준 (범위)| 기여자 | PR 링크| 1차 리뷰 | 2차 리뷰 |  Approve |
-|------------------|------------|------------|------------|------------|------------|
-| **기여자 1** <br> [Shape](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=1518816676) (28개) | 장윤영 | [PR](https://github.com/processing/p5.js-website/pull/287/commits) |  |  | | |
-| **기여자 2** <br> [Events](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=1034791071)  (31개) | 박민욱 | [PR](https://github.com/processing/p5.js-website/pull/290#pullrequestreview-2028785227) | ✅ | ✅ | ✅ | |
-| **기여자 3** <br> [Foundation](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=1397595777) (11개) <br> [3D](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=1991454505) `처음부터 textureMode()까지` (18개) | 장예원 |  |  |  | |
-| **기여자 4** <br> [3D](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=1991454505) `textureWrap()부터 p5.Camera.perspective()까지` (28개) | 이현우 | [PR](https://github.com/processing/p5.js-website/pull/312#issuecomment-2083051712) |✅| ✅ |  | |
-| **기여자 5** <br> [3D](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=1991454505) `p5.Camera.ortho()부터 끝까지` (10개) <br> [Constants](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=1444848743) (7개) <br> [Transform](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=330392233) (10개)  | 박성훈 | [PR](https://github.com/processing/p5.js-website/pull/306) |✅|  | | |
+|------------------|------------|------------|
+| **기여자 1** <br> [Shape](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=1518816676) (28개) | 장윤영 | [PR](https://github.com/processing/p5.js-website/pull/287/commits) |
+| **기여자 2** <br> [Events](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=1034791071)  (31개) | 박민욱 | [PR](https://github.com/processing/p5.js-website/pull/290#pullrequestreview-2028785227) |
+| **기여자 3** <br> [Foundation](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=1397595777) (11개) <br> [3D](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=1991454505) `처음부터 textureMode()까지` (18개) | 장예원 |  |
+| **기여자 4** <br> [3D](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=1991454505) `textureWrap()부터 p5.Camera.perspective()까지` (28개) | 이현우 | [PR](https://github.com/processing/p5.js-website/pull/312#issuecomment-2083051712) |
+| **기여자 5** <br> [3D](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=1991454505) `p5.Camera.ortho()부터 끝까지` (10개) <br> [Constants](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=1444848743) (7개) <br> [Transform](https://docs.google.com/spreadsheets/d/1DolS86mQox2EHDEhihVCEoAvWB1Ti_6PP6CltFmx4wA/edit#gid=330392233) (10개)  | 박성훈 | [PR](https://github.com/processing/p5.js-website/pull/306) |
 
 * 기여자님들은 위의 범위들을 둘러보시고, 표에 ⭐성함을 오늘중(4/27)⭐으로 작성해주세요! (한 범위당 희망자가 2명 이상일 경우, 스튜어드가 별도 조정할 예정입니다.)
 
